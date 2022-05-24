@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss
+  version="2.0">
+  <channel>
+    <title>Microsoft Support - FAST Search Server</title>
+    <description>Microsoft Support</description>
+    <copyright>2022 Microsoft</copyright>
+    <lastBuildDate>Sun, 15 May 2022 12:50:53 Z</lastBuildDate>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/february-10-2015-update-for-fast-search-server-2010-for-sharepoint-kb2760409-ffbc6399-528e-5ed2-e051-ff877297f9a1</link>
+      <title>February 10, 2015 update for FAST Search Server 2010 for SharePoint (KB2760409)</title>
+      <description>Provides information about the FAST Search Server 2010 for SharePoint update KB2760409 that was released on February 10, 2015.</description>
+      <pubDate>Tue, 26 Jan 2021 01:02:00 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-july-19-2010-faf0e95c-68b9-dcca-da21-c2d8f630f6d7</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (fsserver-x-none.msp): July 19, 2010</title>
+      <description>Describes the issue that is fixed in the FAST Search Server 2010 for SharePoint hotfix package that is dated July 19, 2010.</description>
+      <pubDate>Tue, 26 Jan 2021 01:01:51 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/search-results-are-displayed-without-security-trimming-in-fast-search-server-2010-for-sharepoint-f5446047-8027-81a9-9682-36a9b83ebf06</link>
+      <title>Search results are displayed without security trimming in FAST Search Server 2010 for SharePoint</title>
+      <description>Resolves a bug in which search results are displayed without security trimming when the Documentum Connector is configured in FAST Search Server 2010 for SharePoint.</description>
+      <pubDate>Tue, 26 Jan 2021 01:01:39 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-april-24-2012-ef9847a9-215f-5fad-c702-8ab19f5123fe</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): April 24, 2012</title>
+      <description>Describes the bugs that are resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated April 24, 2012.</description>
+      <pubDate>Tue, 26 Jan 2021 01:01:22 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-august-31-2010-e36da266-cb3d-3765-e307-3995a2665b08</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (fsserver-x-none.msp): August 31, 2010</title>
+      <description>Describes the issues that are fixed in the FAST Search Server 2010 for SharePoint hotfix package that is dated August 31, 2010.</description>
+      <pubDate>Tue, 26 Jan 2021 01:00:50 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-december-13-2011-e202ad20-547d-13bb-7833-2a532ab3c423</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): December 13, 2011</title>
+      <description>Describes the bugs that are resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated December 13, 2011.</description>
+      <pubDate>Tue, 26 Jan 2021 01:00:44 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-april-9-2013-d288a3da-fbf7-9826-189d-2c32b28eb995</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): April 9, 2013</title>
+      <description>Describes an issue that is resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated April 9, 2013.</description>
+      <pubDate>Tue, 26 Jan 2021 00:59:57 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/office-2010-cumulative-update-for-december-2013-cce1bc44-848f-e2e5-f42a-1343e008c590</link>
+      <title>Office 2010 cumulative update for December 2013</title>
+      <description>Lists the cumulative update packages for Office 2010 that were released in December 2013.</description>
+      <pubDate>Tue, 26 Jan 2021 00:59:38 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/office-2010-cumulative-update-for-august-2010-c3f65f0b-8e9c-c6ae-afa6-04220402fb2f</link>
+      <title>Office 2010 Cumulative Update for August 2010</title>
+      <description>Lists the cumulative updates for Office 2010 that are released in August 2010.</description>
+      <pubDate>Tue, 26 Jan 2021 00:59:09 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-december-10-2013-b673316e-0bac-66df-65cf-2eaf541ba881</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): December 10, 2013</title>
+      <description>Describes the issues that are resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated December 10, 2013.</description>
+      <pubDate>Tue, 26 Jan 2021 00:58:31 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/october-13-2015-update-for-fast-search-server-2010-for-sharepoint-kb3054970-a24177a8-d7ce-13e1-4072-7302389f8fee</link>
+      <title>October 13, 2015, update for FAST Search Server 2010 for SharePoint (KB3054970)</title>
+      <description>Provides information about the update KB3054970 for FAST Search Server 2010 for SharePoint. This update was released on October 13, 2015.</description>
+      <pubDate>Tue, 26 Jan 2021 00:57:43 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-december-10-2013-9bb30928-80a5-42d2-98fa-9d3f7390478b</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): December 10, 2013</title>
+      <description>Describes the issues that are resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated December 10, 2013.</description>
+      <pubDate>Tue, 26 Jan 2021 00:57:24 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/office-2010-cumulative-update-for-april-2014-9906ca4a-35be-b107-ae60-824d33ef1106</link>
+      <title>Office 2010 cumulative update for April 2014</title>
+      <description>Lists the cumulative update packages for Office 2010 that were released in April 2014.</description>
+      <pubDate>Tue, 26 Jan 2021 00:57:17 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/june-9-2015-update-for-fast-search-server-2010-for-sharepoint-kb2956196-98a28c76-341b-7a55-40c9-c5de0d8d99d2</link>
+      <title>June 9, 2015, update for FAST Search Server 2010 for SharePoint (KB2956196)</title>
+      <description>Describes update 2956196 for the FAST Search Server 2010 for SharePoint. This update was released on June 9, 2015.</description>
+      <pubDate>Tue, 26 Jan 2021 00:57:16 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/list-of-available-sharepoint-2010-and-office-server-2010-sp2-packages-8a7a6310-32de-cf10-6103-2c0da4b50e9d</link>
+      <title>List of available SharePoint 2010 and Office Server 2010 SP2 packages</title>
+      <description>Lists all available SP2 packages associated with SharePoint 2010 and Office Server 2010.</description>
+      <pubDate>Tue, 26 Jan 2021 00:56:35 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/office-2010-cumulative-update-for-october-2013-892e24db-c031-de62-b29a-7ea647bcd089</link>
+      <title>Office 2010 cumulative update for October 2013</title>
+      <description>Lists the cumulative update packages for Office 2010 that were released in October 2013.</description>
+      <pubDate>Tue, 26 Jan 2021 00:56:32 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/technical-details-about-the-sharepoint-2010-and-office-server-2010-sp2-releases-81b911de-fcd9-359b-fb35-372561846ecf</link>
+      <title>Technical details about the SharePoint 2010 and Office Server 2010 SP2 releases</title>
+      <description>This article describes the technical information about each SP2 updates that were released for the Microsoft SharePoint 2010 and Office Server 2010 products.</description>
+      <pubDate>Tue, 26 Jan 2021 00:56:14 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-october-29-2010-7f16ef08-27c3-fadf-90bf-c205cb735a76</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (fsserver-x-none.msp): October 29, 2010</title>
+      <description>Describes the bug that is resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated October 29, 2010.</description>
+      <pubDate>Tue, 26 Jan 2021 00:56:06 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/the-webanalyzer-preferredview-configuration-is-deleted-when-you-update-on-fast-search-server-2010-for-sharepoint-6ab14684-e827-9d10-93ca-a4b1f9f0d721</link>
+      <title>The WebAnalyzer preferredview configuration is deleted when you update on FAST Search Server 2010 for SharePoint</title>
+      <description>Resolves an issue in which the WebAnalyzer preferredview configuration is deleted when the post setup configuration runs on FAST Search Server 2010 for SharePoint.</description>
+      <pubDate>Tue, 26 Jan 2021 00:55:11 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-august-30-2011-6187477a-3450-2c3e-e6e7-d40760252c62</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (fsserver-x-none.msp): August 30, 2011</title>
+      <description>Describes the bugs that are resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated Augsut 30, 2011.</description>
+      <pubDate>Tue, 26 Jan 2021 00:54:46 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/list-of-all-sharepoint-2010-and-office-server-2010-sp1-packages-58ada071-06e7-b579-6c0c-a30b979e85d9</link>
+      <title>List of all SharePoint 2010 and Office Server 2010 SP1 packages</title>
+      <description>This article lists all the SP1 packages associated with SharePoint 2010 and Office Server 2010.</description>
+      <pubDate>Tue, 26 Jan 2021 00:54:25 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-august-28-2012-575bebc5-2fbc-4d4c-f6bf-eb1426875356</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): August 28, 2012</title>
+      <description>Describes the bugs that are resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated August 28, 2012.</description>
+      <pubDate>Tue, 26 Jan 2021 00:54:21 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-april-8-2014-49c53272-af2a-2dc2-bae1-3bcd1e751b8f</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): April 8, 2014</title>
+      <description>Describes the issues that are fixed in the FAST Search Server 2010 for SharePoint hotfix package that is dated April 8, 2014.</description>
+      <pubDate>Tue, 26 Jan 2021 00:53:48 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-october-30-2012-473fba79-c6cd-b491-1d7f-c45251093ab0</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): October 30, 2012</title>
+      <description>Describes the bug that is resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated October 30, 2012.</description>
+      <pubDate>Tue, 26 Jan 2021 00:53:41 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/improvements-to-the-documentum-connector-in-fast-search-server-2010-for-sharepoint-are-available-40ceb984-c72c-c3a6-24aa-8e01c88408c2</link>
+      <title>Improvements to the Documentum connector in FAST Search Server 2010 for SharePoint are available</title>
+      <description>Enables support for multiple repositories and password encryption for the Documentum connector in FAST Search Server 2010 for SharePoint. Provides steps to enable these improvements.</description>
+      <pubDate>Tue, 26 Jan 2021 00:53:25 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-office-2010-sp1-sharepoint-2010-sp1-office-servers-sp1-dvd-and-fast-technologies-2010-sp1-dvds-39404ad3-5729-a5a1-962b-a22c8636fc03</link>
+      <title>Description of the Office 2010 SP1, SharePoint 2010 SP1, Office Servers SP1 DVD, and FAST Technologies 2010 SP1 DVDs</title>
+      <description>Describes the structure of the Office 2010 SP1, SharePoint 2010 SP1, Office Servers SP1, and FAST Technologies 2010 SP1 DVDs.</description>
+      <pubDate>Tue, 26 Jan 2021 00:53:03 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/a-crawl-for-a-lotus-notes-content-source-enters-an-infinite-loop-38d6e8b6-2cc9-4793-a55f-c972acd22833</link>
+      <title>A crawl for a Lotus Notes content source enters an infinite loop</title>
+      <description>Resolves a bug in which a crawl for a Lotus Notes content source enters an infinite loop in FAST Search Server 2010 for SharePoint.</description>
+      <pubDate>Tue, 26 Jan 2021 00:53:01 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-fast-search-server-2010-for-sharepoint-sp2-3267e7ad-1e93-00c0-6430-214e8ae158ae</link>
+      <title>Description of FAST Search Server 2010 for SharePoint SP2</title>
+      <description>Describes the improvements that FAST Search Server 2010 for SharePoint SP2 provides and the issues that it fixes.</description>
+      <pubDate>Tue, 26 Jan 2021 00:52:47 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-october-8-2013-2558c9cc-4a51-2ff0-f343-6b10e2a4ed68</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): October 8, 2013</title>
+      <description>Describes the issues that are resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated October 8, 2013.</description>
+      <pubDate>Tue, 26 Jan 2021 00:52:14 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-february-28-2012-1345799a-3ed9-f8cb-441b-c8d267dbc2d3</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (Fsserver-x-none.msp): February 28, 2012</title>
+      <description>Describes the bug that is resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated February 28, 2012.</description>
+      <pubDate>Tue, 26 Jan 2021 00:51:24 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-office-updates-february-10-2015-078e78a9-e5b3-d91a-f424-36b1682e8d56</link>
+      <title>Description of the Office updates: February 10, 2015</title>
+      <description>Lists the Office updates that were released on February 10, 2015.</description>
+      <pubDate>Tue, 26 Jan 2021 00:50:51 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-office-2010-sp2-sharepoint-2010-sp2-office-servers-sp2-and-fast-technologies-2010-sp2-dvds-0789e207-025e-2b13-be95-2c4252e7fdfa</link>
+      <title>Description of the Office 2010 SP2, SharePoint 2010 SP2, Office Servers SP2, and FAST Technologies 2010 SP2 DVDs</title>
+      <description>Describes the structure of the Office 2010 SP2, SharePoint 2010 SP2, Office Servers SP2, and FAST Technologies 2010 SP2 DVDs.</description>
+      <pubDate>Tue, 26 Jan 2021 00:50:51 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-fast-search-server-2010-for-sharepoint-hotfix-package-fsserver-x-none-msp-february-22-2011-03fc2521-332d-5540-545e-2af978cc873f</link>
+      <title>Description of the FAST Search Server 2010 for SharePoint hotfix package (fsserver-x-none.msp): February 22, 2011</title>
+      <description>Describes the bugs that are resolved in the FAST Search Server 2010 for SharePoint hotfix package that is dated February 22, 2011.</description>
+      <pubDate>Tue, 26 Jan 2021 00:50:41 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/ms13-013-vulnerabilities-in-fast-search-server-2010-for-sharepoint-parsing-could-allow-remote-code-execution-february-12-2013-c5250251-0525-726d-c470-36d815a5b005</link>
+      <title>MS13-013: Vulnerabilities in FAST Search Server 2010 for SharePoint parsing could allow remote code execution: February 12, 2013</title>
+      <description>Resolves vulnerabilities in Microsoft FAST Search Server 2010 for SharePoint when the Advanced Filter Pack is enabled that could allow remote code execution in the security context of a user account that uses a restricted token.</description>
+      <pubDate>Mon, 25 Jan 2021 02:59:23 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/ms12-067-vulnerability-in-fast-search-server-2010-for-sharepoint-parsing-could-allow-remote-code-execution-october-9-2012-976f7b4a-ef18-16c9-624e-e3bf77616b09</link>
+      <title>MS12-067: Vulnerability in FAST Search Server 2010 for SharePoint parsing could allow remote code execution: October 9, 2012</title>
+      <description>Resolves vulnerabilities in Microsoft FAST Search Server 2010 for SharePoint when the Advanced Filter Pack is enabled that could allow remote code execution in the security context of a user account that uses a restricted token.</description>
+      <pubDate>Mon, 25 Jan 2021 02:59:12 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/technical-details-about-the-sharepoint-2010-and-office-server-2010-sp1-releases-dd43ef78-d1b5-a7d1-a8a5-552e095f02a6</link>
+      <title>Technical details about the SharePoint 2010 and Office Server 2010 SP1 releases</title>
+      <description>This article describes technical information about each SP1 updates that were released for the  Microsoft SharePoint 2010 and Office Server 2010 products.</description>
+      <pubDate>Fri, 15 Jan 2021 06:43:36 Z</pubDate>
+    </item>
+    <item>
+      <link>https://support.microsoft.com/en-us/topic/description-of-the-office-server-2010-update-svrproof-en-us-msp-august-14-2012-7394a9ca-d097-2e21-1d2e-cf6a8ea009ed</link>
+      <title>Description of the Office Server 2010 update (svrproof-en-us.msp): August 14, 2012</title>
+      <description>Provides information about the Office Server 2010 update that is dated August 14, 2012.</description>
+      <pubDate>Fri, 15 Jan 2021 06:42:11 Z</pubDate>
+    </item>
+  </channel>
+</rss>
